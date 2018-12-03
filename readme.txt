@@ -3,4 +3,5 @@ Git is free software.
 
 Git is free.
 
+Git is free software distributed under the GPL.
 
