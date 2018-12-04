@@ -10,3 +10,5 @@ Git tracks changes.
 I have a smart boss!
 
 Creating a new branch.
+
+Creating a new branch 2.
