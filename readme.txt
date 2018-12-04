@@ -8,3 +8,5 @@ Git is free software distributed under the GPL.
 Git tracks changes.
 
 I have a smart boss!
+
+Creating a new branch.
