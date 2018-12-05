@@ -14,3 +14,5 @@ Creating a new branch.
 Creating a new branch 2.
 
 Creating a new branch 3.
+
+git is simple AND easy.
